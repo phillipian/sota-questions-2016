@@ -84,4 +84,4 @@ Please let us know if you plan on distributing the survey at your school, and we
 
 ### Contact
 
-If you have any questions about the survey, or more information on how to distribute it, please email [sota@phillipian.net](mailto:sota@phillipian.net). Alternatively, you may open an [issue on this repository](/issues).
+If you have any questions about the survey, or more information on how to distribute it, please email [sota@phillipian.net](mailto:sota@phillipian.net). Alternatively, you may open an [issue on this repository](https://github.com/phillipian/sota-questions/issues).
